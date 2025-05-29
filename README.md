@@ -50,16 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilanDanidhariya&show_icons=true&theme=radical" alt="Milan's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanDanidhariya&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### ✨ Let's Connect
 
 I’m always up for collaboration, feedback, or just tech talk. Feel free to [connect on LinkedIn](https://www.linkedin.com/in/MilanDanidhariya) or drop me an email.
